@@ -1,34 +1,72 @@
-## This is my website
+<!DOCTYPE html>
+<html lang="en">
 
-img src=""
-### Markdown
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Hobby</title>
+  <link rel="stylesheet" href="style.css">
+   <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+   
+  <ul class="menu">
 
-```markdown
-Syntax highlighted code block
+        <li class="links"><a href="#Welcome"></a>About</li>
 
-# Header 1
-## Header 2
-### Header 3
+      <li class="links"><a href="#Work"></a>Work</li>
 
-- Bulleted
-- List
+        <li class="links"><a href="#Contact"></a>Contact</li>
+    </ul>
 
-1. Numbered
-2. List
+    
+    <section id="Welcome">
+    
+        <div class="parallax-inner">
+        
+        <img src="WhatsApp%20Image%202021-07-24%20at%2010.29.34%20AM.jpeg"class="profile"/>
+            
+            <h1>Nandana <br>
+            
+            </h1>
+            
+         
+                
 
-**Bold** and _Italic_ and `Code` text
+        </div>
+    
+    </section>
+    
+  
+    <section id="Bio">
+        
+         
+        
+        <div>
+       
+            <div class="line"></div>
+    
+    <h1> Hi </h1>
+        
+            <h2>Welcome to my website</h2>
+        
+        </div>
+        
+       
+      
+    </section>
+  
+  <section id="aboutme">
 
-[Link](url) and ![Image](src)
-```
+        <h1>About me</h1>
+     <div class="line"></div>
+     <p>This is me, Nandana Navaneeth. Am 10 years old and living in Bangalore. My hometown is Palakkad, Kerala and I speak Malayalam at home. My interests are art, dance, code, solving different rubix shapes (cube, traingle) etc. Am currently in 5th Grade and studying in Presidency School. If am not studying, do spend my time learning chess skills, create my own apps by coding using html,css and js.They are very intresting and also helps me to make website and many more!!Soving a rubix cube makes me think about the algorithms.I feel intresting while trying to solve the cube. I love to draw and color. When I feel bored I start drawing characters, sketch scenery and paint on canvas. I love to dance and currently learning Bhartanatyam since last 2 years and look to perform on stage. My new interest is music and have started learning so that I can sing and dance. Thats not it, I even like to read books!! and finally love to travel places, understand the local culture, try out different foods and enjoy the time spent along with family while traveling </p>
+        <br>
+        </section>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+     
+   
+</body>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nandunav/my_-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
